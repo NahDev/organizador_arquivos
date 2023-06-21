@@ -6,7 +6,7 @@ Este script em Python organiza as pastas e arquivos de uma determinada pasta rai
 ## Uso
 
 Certifique-se de ter o Python instalado em seu sistema. Execute o script fornecendo os seguintes parâmetros:
-
+``` 
 ```python
 pasta_raiz = "/caminho/para/a/pasta/raiz"
 pasta_destino = "/caminho/para/a/pasta/destino"
