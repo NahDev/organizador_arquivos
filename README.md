@@ -1,5 +1,3 @@
-Aqui está o arquivo `README.md` para o código fornecido:
-
 ```markdown
 # Organizador de Pastas e Arquivos
 
